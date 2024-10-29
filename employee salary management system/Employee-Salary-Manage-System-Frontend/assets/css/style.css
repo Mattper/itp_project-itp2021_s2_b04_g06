@@ -1,0 +1,37 @@
+*{
+    overflow-x: hidden;
+    font-family: "Poppins Medium";
+}
+/*....................................Login form styling start.................................*/
+
+.empSearch{
+    /*background: url("../images/lbackwall.png");*/
+    background-size: cover;
+    align-content: center;
+
+}
+#employeePage{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: auto;
+    transform: translate(-50%,-50%);
+    box-shadow: #cccccc 0px 0px 18px
+}
+.svgimg{
+    width: 78%;
+    height: 87%;
+    background: url("../images/img1.svg");
+    background-size: cover;
+}
+
+/*-----------------------------------------Payment Form-----------------------------------------------*/
+.payment-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#employeeTitle{
+    margin-left: 35%;
+    margin-top: 10px;
+}
